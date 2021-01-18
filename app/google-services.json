@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346317284938",
+    "project_id": "recyclerviewwithfirebase-9a3d0",
+    "storage_bucket": "recyclerviewwithfirebase-9a3d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346317284938:android:365544c315a3e1e22a68b3",
+        "android_client_info": {
+          "package_name": "com.zakee.recyclerviewwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346317284938-k62vdtfelu5tth30f3ko1rt50a75co94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvlDo8LvrtG-XAdRdMrBVopW-id5I52G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346317284938-k62vdtfelu5tth30f3ko1rt50a75co94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
